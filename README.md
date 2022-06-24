@@ -1,1 +1,1 @@
-# Structured-Query-Language-SQL-Database-
+# Learn SQL for data science. It's must for all.
