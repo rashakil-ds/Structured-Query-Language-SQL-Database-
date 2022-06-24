@@ -1,0 +1,3 @@
+
+SQL Book: https://drive.google.com/file/d/1_ecR9-mTlNe4XSVCdBycwGLtPMjuNOmu/view?usp=sharing
+W3 SQL: https://www.w3schools.com/sql/
